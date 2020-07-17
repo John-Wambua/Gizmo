@@ -1,4 +1,4 @@
-# eliteBlog
+# Gizmo
 
 ## Build Setup
 
